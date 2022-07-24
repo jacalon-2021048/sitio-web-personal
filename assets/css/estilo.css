@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#cuerpo{
+    background-color: #82ACFA;        
+}
+
+#menu nav div a{
+    text-decoration: none;
+    color: #0000A7;    
+    font-size: 25px;
+}
+
+#encabezado{
+    text-align: center;
+    background-color: gold;
+    padding: 15px;
+    font-size: 25px;
+
+}
+
+#encabezado h1{
+    color: #0000A7;
+}
+
+#contenido{
+    font-size: 25px;
+}
+
+
+#slider-kinal{
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+}
+
+#tabla td{
+    border:15px solid royalblue;
+}
+
+#tabla td p{
+    color: #000;
+    font-size: 25px;
+}
+
+
+
+#footer{
+    text-align: center;
+    background-color: gold;
+    color: #0000A7;
+    padding: 15px;
+    font-size: 25px;
+    bottom: 0;
+    width: 100%;
+}
